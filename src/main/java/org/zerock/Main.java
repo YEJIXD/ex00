@@ -1,4 +1,6 @@
-package org.zerock;public class Main {
+package org.zerock;
+
+public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
